@@ -13,6 +13,6 @@ def fizzbuzz(int)
     return "FizzBuzz"
   else 
     puts int
-    return int
+    return
   end
 end
