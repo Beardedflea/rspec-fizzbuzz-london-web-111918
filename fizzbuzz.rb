@@ -8,5 +8,8 @@ def fizzbuzz(int)
   elsif int % 5 == 0
     puts "Buzz"
     return "Buzz"
+  elsif int % 5 == 0
+    puts "Buzz"
+    return "Buzz"
   end
 end
