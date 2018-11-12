@@ -12,7 +12,7 @@ def fizzbuzz(int)
     puts "FizzBuzz"
     return "FizzBuzz"
   else 
-    puts "int"
-    return "int"
+    puts int
+    return int
   end
 end
